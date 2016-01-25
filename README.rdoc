@@ -1,6 +1,6 @@
-= yun_tong_xun
+= YunTongXun(云通讯) API
 
-Description goes here.
+云通讯平台REST 接口为开发者提供主账户信息查询、创建子账户、获取子账户、模板短信、双向回拨、外呼通知、语音验证码、IVR外呼、会议管理和座席管理等功能。
 
 == Contributing to yun_tong_xun
  

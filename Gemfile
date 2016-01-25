@@ -1,4 +1,5 @@
 source "http://rubygems.org"
+gem "rest-client", "~> 1.8.0"
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
